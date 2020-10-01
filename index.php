@@ -413,18 +413,7 @@ error_reporting(0);
 			<div class="col-12 text-center">
 				<span class="title">PENGUMUMAN HASIL SELEKSI SBMPTN 2020</span>
 			</div>
-		</div>
-		<div class="void"></div>
-		<div class="card card-block bg-faded mx-auto">
-			<div class="card-body">
-				<p class="text-center" style="font-size: 1em;">
-					PESERTA ATAS NAMA <strong><span id="nama-peserta-tidak-terima"></span></strong> DENGAN NOMOR PESERTA <strong><span id="no-peserta-tidak-diterima"></span></strong> DINYATAKAN <strong>TIDAK DITERIMA</strong> PADA SBMPTN LTMPT 2020.
-				</p>
-				<p class="text-center" style="font-weight: bold; font-size: 1.5em;">JANGAN PUTUS ASA DAN TETAP SEMANGAT!</p>
-			</div>
-			<div class="card-footer">
-				<a id="not-accepted-back" class="btn btn-block btn-success" href="">Kembali ke pencarian</a>
-			</div>
+		
 		</div>
 	</div>
 
